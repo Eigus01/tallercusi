@@ -26,4 +26,15 @@ body{
     align-items:center;
     align-content: flex-start;
     height: 950px;
+    background-color: #CCFFCC;
+}
+.textdescription{
+    height: 50%;
+    display: flex;
+    align-items:center;
+}
+.nombre{
+    height: 25%;
+    display: flex;
+    align-items:center;
 }
